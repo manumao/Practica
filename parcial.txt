@@ -1,1 +1,2 @@
 nota final = 10
+Primer parcial de Intro a la Informática 27/7/21
